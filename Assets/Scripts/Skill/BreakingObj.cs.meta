@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7bcb19cd6c855c44e8be31f79121d207
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DestroyVFX: {fileID: 104829970813648393, guid: 2bd3c58bdb2e8154cb549af3035cad84, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

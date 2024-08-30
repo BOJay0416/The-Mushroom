@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &374292954700990687
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 374292954700990673}
+  - component: {fileID: 374292954700990672}
+  m_Layer: 0
+  m_Name: VR Login Control
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &374292954700990673
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 374292954700990687}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.14226, y: -1.1745833, z: -1.0611918}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &374292954700990672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 374292954700990687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db14e3d3ccfa4f946b71384857a3b1da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LoginPanel: {fileID: 0}
+  LoginDoor: {fileID: 0}
+  UserName: 
+  CreateRoomFail: {fileID: 0}
+  CreateRoomShroom: {fileID: 0}
+  RoomIndex: {fileID: 0}
+  MaxPlayersInput: 6
+  LobbyLocation: {fileID: 0}
+  StartSurviveGame: {fileID: 0}
+  StartEscapeGame: {fileID: 0}
+  PlayerNumInRoom: 0
+  PlayerListEntryPrefab: {fileID: 2688555030443700042, guid: c7c738e4cec76d048a8a9b986f724141, type: 3}
+  NameLocation: {fileID: 0}
+  RoomLocation: {fileID: 0}
+  RoomBackShroom: {fileID: 0}
+  PlayerControl_01: {fileID: 0}
+  OpVideo: {fileID: 0}
+  Singin: 0
